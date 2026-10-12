@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "mustafaPortfolio",
+    "slug": "umi-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.umikarim.mustafaportfolio",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a0aafb8a-a5d7-406e-b658-707cae391e8f"
+      }
+    }
+  }
+}
